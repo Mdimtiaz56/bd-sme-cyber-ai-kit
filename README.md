@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="BD SME Cyber + AI Kit" width="100%"/>
+</p>
 # BD SME Cyber + AI Kit
 
 বাংলাদেশের ছোট ব্যবসা, ফ্রিল্যান্সার ও পেজ অ্যাডমিনদের জন্য সংক্ষিপ্ত চেকলিস্ট ও প্রম্পট।
